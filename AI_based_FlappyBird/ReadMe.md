@@ -1,7 +1,7 @@
 # Install Dependencies
 
 ```
-pip install python 
+pip install python3 
 
 pip install pygame
 
